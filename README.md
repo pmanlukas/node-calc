@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 
-[![Build Status](https://dev.azure.com/lupollm/calculator/_apis/build/status/pmanlukas-enterprise.calculator?branchName=master)](https://dev.azure.com/lupollm/calculator/_build/latest?definitionId=8&branchName=master)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/pmanlukas/node-calc.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/pmanlukas/node-calc/alerts/)
 
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
